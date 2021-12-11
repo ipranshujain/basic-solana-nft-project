@@ -1,0 +1,19 @@
+{
+    "name": "SPIDER_MAN",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "5B1Q49L2oCpUQVXjMkUisBFZxJJM2JZwxSqvxXsEpwzb",
+          "share": 100
+        }
+      ]
+    }
+  }
